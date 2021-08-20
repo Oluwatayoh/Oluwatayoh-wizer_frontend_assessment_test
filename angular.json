@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "wizer-frontend-test"
+    }
+  },
+  "defaultProject": "wizer-frontend-test",
+  "cli": {
+    "analytics": false
+  }
 }
